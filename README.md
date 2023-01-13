@@ -58,6 +58,8 @@ Of course jumping into conclusions would be naive blunder. We will further subse
 
 In order to properly visualize the boxplots we will have to concatenate the `pre` and `post` subsets of each event respectively. We will assign those flags into a new column `Period` to indicate if the associating date is before or after the event.
 
+<img src = './assets/LockBox.png'></img>
+
 #### Boxplot analysis:
 
 <ul>
